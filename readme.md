@@ -1,4 +1,4 @@
-# 🚀 ¡Hola, soy [Tu Nombre]! 👋  
+# 🚀 ¡Hola, soy Valentin! 👋  
 
 ### 💡 Desarrollador & Apasionado por el Emprendimiento  
 
@@ -11,19 +11,17 @@ Desde entonces, combino mis conocimientos en negocios con el desarrollo de softw
 ## 🛠️ **Habilidades Técnicas**  
 
 - 🔹 **Front-end:** HTML, CSS, JavaScript, PHP | React, React Native, Expo   
-- 🔹 **Estado & Rutas:** Hooks, rutas dinámicas, rutas estáticas, persistencia de sesiones  
 - 🔹 **Back-end:** APIs REST, CRUD con PHP (Slim), Java y JavaScript | MVC & patrones de diseño  
 - 🔹 **Bases de Datos:** SQL (MySQL) & NoSQL (Firebase Realtime Database)  
 - 🔹 **Automatización:** Scripting en Linux con Bash 🐧  
 - 🔹 **Testing:** JUnit, Jest & API Testing con Postman  
 - 🔹 **UI/UX:** Prototipado y diseño en Figma 🎨  
 - 🔹 **Control de versiones:** Git & GitHub  
-- 🔹 **Análisis de datos:** Excel avanzado (tablas dinámicas, gráficos, fórmulas complejas)  
 
 ---
 
 ## 🚀 **Intereses**  
 
-✨ **Desarrollo de productos** | 📊 **Startups & Finanzas** | 🌐 **Web Development**  
+🌐 **Web Development** | ✨ **Desarrollo de productos** | 📊 **Startups & Finanzas** 
 
-📬 ¡Hablemos! Puedes encontrarme en **[LinkedIn](https://linkedin.com/in/tu-perfil)** o revisar mis proyectos en **GitHub**. 🚀  
+📬 ¡Hablemos! Puedes encontrarme en **[LinkedIn](https://linkedin.com/in/valentin-bellagamba/)** o revisar mis proyectos en **GitHub**. 🚀
